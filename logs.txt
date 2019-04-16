@@ -1,0 +1,5 @@
+commit 9bea7198ef2fcc8e3addfdf72a81f5e6e8a4611e (HEAD -> logs, origin/master, master)
+Author: unknown <martin.peshovski@students.finki.ukim.mk>
+Date:   Tue Apr 16 15:42:48 2019 +0200
+
+    Initial commit
